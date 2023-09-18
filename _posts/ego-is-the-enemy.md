@@ -1,7 +1,8 @@
----
+--- 
 layout: post
 title: Ego is the Enemy
-author: Ryan Holiday
+date:   2023-09-18 18:35:20 +0530
+categories: books notes
 ---
 
 # Ego Is the Enemy
