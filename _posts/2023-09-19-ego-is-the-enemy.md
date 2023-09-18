@@ -2,16 +2,14 @@
 layout: post
 title: Ego is the Enemy
 date:   2023-09-18 18:35:20 +0530
-categories: books notes
+categories: notes books
 ---
 
-# Ego Is the Enemy
-
-Author: Ryan Holiday
-Type: Non-Fiction
-Genres: Life Advice
-Rating: 5-Star
-Date Finished: December 31, 2018
+Author: Ryan Holiday  
+Type: Non-Fiction  
+Genres: Life Advice  
+Rating: ⭐⭐⭐⭐⭐  
+Date Finished: December 31, 2018  
 
 # 🚀 The Book in 3 Sentences
 
@@ -32,16 +30,16 @@ Who do I want to be? What path will I take?
 
 > The first principle is that you must not fool yourself. And you're the easiest person to fool. 
 —Richard Feynman
-> 
+
 - Talk and work—they kill each other. *Earn* your talks.
 - To be, or to do? —Life is a constant roll call.
 
 > Let no man's ghost come back to say my training let me down.
-> 
+ 
 - Don't be passionate.
 
 > Great men have almost always shown themselves as ready to obey as they afterwards proved able to command. — Lord Mahon
-> 
+ 
 - The **canvas approach:** The person who clears the path ultimately controls the direction, just as the canvas shapes the painting.
 - **Restrain yourself:** Have the guts to *not* fight back.
 - A person who thinks all the time has nothing to think about except thoughts, so he loses touch with reality and lives in a world of illusions.
@@ -50,7 +48,7 @@ Be part of what's going on around you. Feast on it, adjust for it. There's no on
 - **Early Pride**: "Whom gods wish to destroy, they first call 'promising'."
 
 > Because you have got a start, you think you are quite a merchant; look out or you will lose your head—go steady, —Rockefeller
-> 
+ 
 - **Fac, si facis.** Do it, if you're going to do it.
 "Am I delaying gratification: Do I pass the marshmallow test?"
 
@@ -61,7 +59,7 @@ For everything next, ego is the enemy, in success as much as in aspiration.
 - Always stay a student.
 
 > Every man I meet is my master in some point, and in that I learn of him. —Ralph Waldo Emerson
-> 
+ 
 
 Subjugate yourself to challenges **deliberately**: be the least knowledgeable person in the room; pick a book you know nothing about. Learn from people you beat, from people you dislike, even from your supposed enemies.
 
@@ -73,7 +71,7 @@ Subjugate yourself to challenges **deliberately**: be the least knowledgeable pe
 - The disease of Me: All of a sudden, awards and recognition matter? They didn't get us here in the first place. "You are becoming who you are going to be and you might as well not be an asshole." The disease of me can corrupt the most innocent climb. "Play for the name on the front of the jersey, and they'll remember the name on the back." **The credit? Who cares.**
 
 > A monk is a man who is separated from all and who is in harmony with all.
-> 
+ 
 - Meditate on the immensity.
 Feel unprotected against the elements or forces or surroundings. Remind yourself how pointless it is to rage and fight and try to one-up those around you. Go and put yourself in touch with the infinite, and end your conscious separation from the world. Reconcile yourself a bit better with the realities of life. Realize how much came before you, and how only wisps of it remain.
 Let the feeling carry you as long as you can. Then, when you start to feel better or bigger, go and do it again.
@@ -86,22 +84,22 @@ Sobriety is the counterweight that must balance out the success.
 > He will face a battle he knows not, 
 he will ride a road he knows not.
 —Gilgamesh
-> 
+ 
 
 The great failing is to see yourself as more than you are and to value yourself at less than your true worth.
 
 > The future bears down upon each one of us with all the hazards of the unknown.
-> 
+ 
 - We don't need constant validation.
 - Alive time or dead time? Which will it be?
 **Vivre sans temps mort.** Life without wasted time.
 - **The effort is enough**: "It is a sane thing to have labored along and scaled arduous hilltops, and when all is done, find humanity indifferent to your achievement.
 
 > The world breaks everyone and afterward many are stronger at the broken places. But those that will not break, it kills.
-> 
+ 
 
 > It can ruin your life only if it ruins your character.
-> 
+ 
 - **Draw the line:** Killing what you love because you can't bear to part from it is selfish and stupid. If your reputation can't absorb a few blows, it wasn't worth anything in the first place.
 - Maintain your own scorecard. Internal and external. Winning is not enough. People can get lucky and win. People can be assholes and win. Anyone can win. But not everyone is the best possible version of themselves.
 - Always love and let go.
@@ -109,8 +107,7 @@ The great failing is to see yourself as more than you are and to value yourself 
 > Not to aspire or seek out of ego.
 To have success without ego.
 To push through failure with strength, not ego.
-> 
 
 > I don't like work—no man does—but I like what is in the work—the chance to find yourself.
-> 
+ 
 - You must sweep the floor every minute of every day. And then sweep again.
