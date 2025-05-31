@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Ego is the Enemy
+title: Ego is the Enemy - Book Notes
 date:   2023-09-18 18:35:20 +0530
 categories: notes books
 ---
